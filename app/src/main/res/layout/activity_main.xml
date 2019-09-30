@@ -194,7 +194,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="@string/date"
+                    android:text="@string/date4"
                     android:textColor="#FFFFFF" />
 
                 <ImageView
