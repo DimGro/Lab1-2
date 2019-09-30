@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherLabs</string>
+    <string name="weatherNow">Сейчас 23℃, 1м/с</string>
+
+    <string name="date1">Пн,30.09</string>
+    <string name="date2">Вт,01.10</string>
+    <string name="date3">Ср,02.10</string>
+    <string name="date4">Чт,03.10</string>
+    <string name="date5">Пт,04.10</string>
+    <string name="date6">Сб,05.10</string>
+    <string name="date7">Вс,06.10</string>
+
+    <string name="temp1">25/13℃</string>
+    <string name="temp2">22/11℃</string>
+    <string name="temp3">16/9℃</string>
+    <string name="temp4">15/9℃</string>
+    <string name="temp5">17/10℃</string>
+    <string name="temp6">23/15℃</string>
+    <string name="temp7">24/17℃</string>
+
+    <string name="wind1">3 м/с</string>
+    <string name="wind2">2 м/с</string>
+    <string name="wind3">5 м/с</string>
+    <string name="wind4">6 м/с</string>
+    <string name="wind5">5 м/с</string>
+    <string name="wind6">1 м/с</string>
+    <string name="wind7">0 м/с</string>
+</resources>
